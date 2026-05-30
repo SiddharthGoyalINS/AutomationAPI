@@ -1,0 +1,55 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Emma",
+      "surname": "Johnson",
+      "class": "10B",
+      "subjects": [
+        "Mathematics",
+        "Physics"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Liam",
+      "surname": "Smith",
+      "class": "10B",
+      "subjects": [
+        "Biology",
+        "Chemistry"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Olivia",
+      "surname": "Williams",
+      "class": "11A",
+      "subjects": [
+        "History",
+        "Literature"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Noah",
+      "surname": "Brown",
+      "class": "11B",
+      "subjects": [
+        "Geography",
+        "Economics"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Ava",
+      "surname": "Davis",
+      "class": "12A",
+      "subjects": [
+        "Computer Science",
+        "Mathematics"
+      ]
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
