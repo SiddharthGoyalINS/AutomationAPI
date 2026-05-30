@@ -49,7 +49,16 @@
         "Computer Science",
         "Mathematics"
       ]
+    },
+    {
+      "id": "6",
+      "name": "Navi",
+      "surname": "Davis",
+      "class": "12A",
+      "subjects": [
+        "Computer Science",
+        "Mathematics"
+      ]
     }
-  ],
-  "$schema": "./node_modules/json-server/schema.json"
+  ]
 }
